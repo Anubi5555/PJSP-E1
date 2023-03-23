@@ -12,6 +12,7 @@ Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture po
 ## Komande za terminal
 
 - man ascii - dobijes ascii tabelu u terminalu
+- man naziv_neke_funkcije - daje nam opis svake funkcije i sve sto nam treba
 -  - otvaranje VS code-a
 -  - otvaranje g edita
 -  - odlazak u direktorijum
@@ -34,3 +35,5 @@ Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture po
 ## Vezbe - 23.mar.2023
 
 - karakter ide izmedju ' ' a string " ", na kraju svakog stringa je \0
+- scanf nam unosi do prvog razmaka ali gets funkcija nema ogranjicenje sto otvara mnoge probleme 
+- fpurge koristimo da bi mogli da kucamo entere u stringovima 
