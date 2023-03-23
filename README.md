@@ -19,6 +19,18 @@ Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture po
 -  - kreiranje direktorijuma
 -  - kompajliranje koda
 -  - pogretanje koda
+- clear - brises istoriju terminala
+
+## Funkcije za stringove <string.h>
+
+- strlen - duzina stringa
+- strcat - spajanje
+- strspy - kopiranje
+- strstr - pokazivac na prvu pojavu stringa u drugom stringu
+- strcmp - poredi dva stringa
+- gets - 
+- puts -
 
 ## Vezbe - 23.mar.2023
 
+- karakter ide izmedju ' ' a string " ", na kraju svakog stringa je \0
