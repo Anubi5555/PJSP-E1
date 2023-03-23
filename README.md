@@ -37,3 +37,5 @@ Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture po
 - karakter ide izmedju ' ' a string " ", na kraju svakog stringa je \0
 - scanf nam unosi do prvog razmaka ali gets funkcija nema ogranjicenje sto otvara mnoge probleme 
 - fpurge koristimo da bi mogli da kucamo entere u stringovima 
+- fgets je filegets (promenljiva u koju smestam, velicina, odakle nesto ucitavam)
+- stdin je tastatura
