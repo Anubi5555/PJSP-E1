@@ -31,6 +31,7 @@ Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture po
 - strcmp - poredi dva stringa
 - gets - 
 - puts -
+- ./a.out - da se pokrene
 
 ## Vezbe - 23.mar.2023
 
@@ -39,3 +40,7 @@ Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture po
 - fpurge koristimo da bi mogli da kucamo entere u stringovima 
 - fgets je filegets (promenljiva u koju smestam, velicina, odakle nesto ucitavam)
 - stdin je tastatura
+- ako sa scanf unesemo “primer nekog stringa” dobicemo smao “primer” a ako to isto odradimo sa puts 
+- Ako nam se zadatak ne kompajlira, ne priznaju nam nista
+- Kada pravis string karakter po  karakter uvek dodaj ‘\0’ da bi mogao da koristis funkcije za stringove
+- Kad spajamo ili kopiramo string, sve ide u prvi, kopiranje gazi preko svega sto je u stringu bilo 
