@@ -28,7 +28,9 @@ Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture po
 ## Funkcije matematike <math.h>
 
 - sqrt - koren
-- 
+- pow (a,n) - daje ti a na n
+- rand - daje ti slucajan broj
+- abs - apsolutna vrednost
 
 ## Funkcije za stringove <string.h>
 
@@ -37,8 +39,8 @@ Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture po
 - strspy - kopiranje
 - strstr - pokazivac na prvu pojavu stringa u drugom stringu
 - strcmp - poredi dva stringa
-- gets - 
-- puts -
+- gets - upis stringa
+- puts - ispis stringa
 
 
 ## Vezbe - 23.mar.2023
