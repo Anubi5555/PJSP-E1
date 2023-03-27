@@ -15,12 +15,20 @@ Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture po
 - man naziv_neke_funkcije - daje nam opis svake funkcije i sve sto nam treba
 -  - otvaranje VS code-a
 -  - otvaranje g edita
--  - odlazak u direktorijum
+- cd - odlazak u direktorijum
 -  - povratak iz direktorijuma
--  - kreiranje direktorijuma
--  - kompajliranje koda
--  - pogretanje koda
+- mkdir - kreiranje direktorijuma
+- gcc - kompajliranje koda
+- touch - pravljenje praznog fajla
+- pwd - izlistava putanju od pocetka do tamo gde si 
+- ls - izlistava sve direktorijume tamo gde se nalazis 
 - clear - brises istoriju terminala
+- ./a.out - da se pokrene
+
+## Funkcije matematike <math.h>
+
+- sqrt - koren
+- 
 
 ## Funkcije za stringove <string.h>
 
@@ -31,7 +39,7 @@ Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture po
 - strcmp - poredi dva stringa
 - gets - 
 - puts -
-- ./a.out - da se pokrene
+
 
 ## Vezbe - 23.mar.2023
 
