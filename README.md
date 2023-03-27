@@ -21,7 +21,7 @@ Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture po
 - gcc - kompajliranje koda
 - touch - pravljenje praznog fajla
 - pwd - izlistava putanju od pocetka do tamo gde si 
-- ls - izlistava sve direktorijume tamo gde se nalazis 
+- lm - izlistava sve direktorijume tamo gde se nalazis 
 - clear - brises istoriju terminala
 - ./a.out - da se pokrene
 
