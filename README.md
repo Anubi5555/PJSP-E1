@@ -43,7 +43,7 @@ Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture po
 - puts - ispis stringa
 
 
-## Vezbe - 23.mar.2023
+## Vezbe - beleske
 
 - karakter ide izmedju ' ' a string " ", na kraju svakog stringa je \0
 - scanf nam unosi do prvog razmaka ali gets funkcija nema ogranjicenje sto otvara mnoge probleme 
@@ -54,3 +54,9 @@ Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture po
 - Ako nam se zadatak ne kompajlira, ne priznaju nam nista
 - Kada pravis string karakter po  karakter uvek dodaj ‘\0’ da bi mogao da koristis funkcije za stringove
 - Kad spajamo ili kopiramo string, sve ide u prvi, kopiranje gazi preko svega sto je u stringu bilo 
+
+## Petlje
+
+- for (int i=0;i<n;i++>) - (pocetak; kraj; skok)
+- while - radi nesto dok je uslov zadovoljen
+- do while - uradi nesto pa proveri uslov
