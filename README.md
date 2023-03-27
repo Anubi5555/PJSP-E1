@@ -7,7 +7,7 @@ Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture po
 - int      | 4B
 - float    | 4B
 - double   | 8B
-- unsigned long long int | 8Bs
+- unsigned long long int | 8B
 
 ## Komande za terminal
 
