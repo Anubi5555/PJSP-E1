@@ -42,8 +42,9 @@ Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture po
 - gets - upis stringa
 - puts - ispis stringa
 
+## Vezbe - beleske (nizovi)
 
-## Vezbe - beleske
+## Vezbe - beleske (stingovi)
 
 - karakter ide izmedju ' ' a string " ", na kraju svakog stringa je \0
 - scanf nam unosi do prvog razmaka ali gets funkcija nema ogranjicenje sto otvara mnoge probleme 
