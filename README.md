@@ -14,7 +14,7 @@ Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture po
 - man ascii - dobijes ascii tabelu u terminalu
 - code - otvaranje VS koda
 - man naziv_neke_funkcije - daje nam opis svake funkcije i sve sto nam treba
--  - otvaranje g edita
+- ? - otvaranje g edita
 - cd - odlazak u direktorijum
 - cd - - povratak iz direktorijuma
 - mkdir - kreiranje direktorijuma
