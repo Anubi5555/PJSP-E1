@@ -3,11 +3,11 @@ Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture po
 
 ## Tipovi podataka
 
-- char     | 1B
-- int      | 4B
-- float    | 4B
-- double   | 8B
-- unsigned long long int | 8B
+- char     | 1B | %c
+- int      | 4B | %d
+- float    | 4B | %f
+- double   | 8B | %lf
+- unsigned long long int | 8B | %u
 
 ## Komande za terminal
 
@@ -64,4 +64,8 @@ Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture po
 
 ## Dodatak 
 
-- 
+- break omogucava da se izadje iz bloka koda
+- continue omogucava da se preskoci na sledecu iteracju bloka koda (preskok)
+- Stvaranje pokazivaca "int *pok1;", dodela vrednosti "pok1 = &neka_promenljiva"
+- Da bi dodelio vrednost promenljivoj na ciju adresu pokazuje pok1 pises : "*pok1 = neki_broj;"
+- za ispis pokazivaca koristi se %p
