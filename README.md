@@ -1,5 +1,5 @@
 # PJSP-E1
-Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture podataka sa smera E1
+Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture podataka (smer - E1)
 
 ## Tipovi podataka
 
@@ -12,16 +12,16 @@ Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture po
 ## Komande za terminal
 
 - man ascii - dobijes ascii tabelu u terminalu
+- code - otvaranje VS koda
 - man naziv_neke_funkcije - daje nam opis svake funkcije i sve sto nam treba
--  - otvaranje VS code-a
 -  - otvaranje g edita
 - cd - odlazak u direktorijum
--  - povratak iz direktorijuma
+- cd - - povratak iz direktorijuma
 - mkdir - kreiranje direktorijuma
-- gcc - kompajliranje koda
+- gcc - kompajliranje koda (ako koristis math.h na kraju napises -ls)
 - touch - pravljenje praznog fajla
-- pwd - izlistava putanju od pocetka do tamo gde si 
-- lm - izlistava sve direktorijume tamo gde se nalazis 
+- pwd - ispisuje putanju od pocetka do trenutne lokacije
+- ls - izlistava sve direktorijume u trenutnom direktorijumu
 - clear - brises istoriju terminala
 - ./a.out - da se pokrene
 
@@ -61,3 +61,7 @@ Beleske i zadaci sa predavanja/vezbi za predmet Programski jezici i strukture po
 - for (int i=0;i<n;i++>) - (pocetak; kraj; skok)
 - while - radi nesto dok je uslov zadovoljen
 - do while - uradi nesto pa proveri uslov
+
+## Dodatak 
+
+- 
